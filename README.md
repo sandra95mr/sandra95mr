@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandra Marcos Recio</h1>
+
+<img src="https://i.postimg.cc/3xhThhG3/banner.png">
+
 <h3 align="center">A creative and curious Data Analyst and Software Developer from Spain</h3>
 
 <h3 align="left">Connect with me:</h3>
