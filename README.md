@@ -17,7 +17,7 @@
 
 <br>
 
-<img src= "https://i.postimg.cc/4dh2tMh8/Green-Teal-Geometric-Modern-Computer-Programmer-Code-Editor-Quotes-Instagram-Post.png">
+<img src="https://i.postimg.cc/4dh2tMh8/Green-Teal-Geometric-Modern-Computer-Programmer-Code-Editor-Quotes-Instagram-Post.png" width="200" height="100">
 
 <br>
 
